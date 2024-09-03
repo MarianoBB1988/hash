@@ -1,4 +1,4 @@
-# Password Hashing y Verificación en PHP ㊙️
+# Password Hashing y Verificación en PHP 🐘
 
 Este proyecto demuestra cómo realizar un hash seguro de contraseñas utilizando la función `password_hash()` de PHP con `PASSWORD_BCRYPT` y cómo verificar contraseñas utilizando `password_verify()`. Estos scripts proporcionan una base básica para implementar un almacenamiento y verificación de contraseñas seguros en una aplicación basada en PHP.
 
